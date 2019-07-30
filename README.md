@@ -2,9 +2,13 @@
 
 Nessa atividade, tivemos que criar 3 sites HTML utilizando os seguintes comandos abaixo:  
   
-  **Primeira Atividade**
-Utilizamos as tags:  
-<h1> e <h3>  
-<strong> e    
-<br>  
+**Pos comandos utilizados, foram:**  
+''<h1> <h2> e <h3>  
+<strong>  
+  <a href="link" target="blink"> nome </a>
+<br>
+<hr>
+<p>''
+  
+
   
