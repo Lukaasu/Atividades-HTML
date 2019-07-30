@@ -8,7 +8,8 @@ Nessa atividade, tivemos que criar 3 sites HTML utilizando os seguintes comandos
   <a href="link" target="blink"> nome </a>
 <br>
 <hr>
-<p>```
+<p>
+```
   
 
   
