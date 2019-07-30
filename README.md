@@ -1,4 +1,4 @@
-# Atividades-HTML
+# Atividades HTML
 
 Nessa atividade, tivemos que criar 3 sites HTML utilizando os seguintes comandos abaixo:  
   
